@@ -8,6 +8,6 @@
         Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
     <Grid>
         <TextBlock Text="Hello WPF" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="50"></TextBlock>
-        <TextBlock Text="This is Changed Commit" HorizontalAlignment="Center" FontSize="50"></TextBlock>
+        <TextBlock Text="This is Branch Changed Commit" HorizontalAlignment="Center" FontSize="50"></TextBlock>
     </Grid>
 </Window>
